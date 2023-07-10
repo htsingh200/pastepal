@@ -1,0 +1,5 @@
+Background Colour = #06002E
+Text Font = Open Sauce
+Theme text color = #BEB0FA
+Theme = Dark
+Card color = #9D8CFF
